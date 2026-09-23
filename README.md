@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Anubhaw Pratap Singh 👋
 
-<!--
-**anubhawpratap/anubhawpratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science Engineering student passionate about
+software development, artificial intelligence, and building practical
+technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+
+- 🤖 Exploring AI & Generative AI
+- 💻 Building software development projects
+- 🐍 Improving Python and Java skills
+- 🗄️ Strengthening SQL & Database concepts
+- 🧠 Practicing Data Structures & Algorithms
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Python
+- Java
+- SQL
+- JavaScript
+
+**Core Concepts**
+- Data Structures & Algorithms
+- DBMS
+- Operating Systems
+- Computer Networks
+- Object-Oriented Programming
+
+**Tools & Technologies**
+- Git
+- GitHub
+- VS Code
+- AI/GenAI Tools
+
+### 📌 Featured Projects
+
+Coming soon...
+
+### 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- GitHub: @anubhawpratap
+
+---
+
+⭐ Thanks for visiting my profile!
